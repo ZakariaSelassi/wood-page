@@ -1,0 +1,46 @@
+.explained-section{
+    display : flex;
+    flex-direction : column;
+   
+}
+.explained-item{
+    display:flex;
+    justify-content : center;
+    background:#E5E5E5;
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+    gap: 10rem;
+}
+.shop{
+    flex-direction : row-reverse;
+}
+.explained-container{
+    display:flex;
+    flex-direction : column;
+    justify-content:center;
+    align-items: flex-start;
+    gap: 5rem;
+    width: 444px;
+    line-height : 25px;
+    font-size:16px;
+    letter-spacing : 2px;
+   
+}
+.about-item h1{
+    border-left: 10px #E4D7B4 solid;
+    padding-left: 1rem;
+}
+
+.chair-img-top{
+    box-shadow: -60px -30px 0px 6px rgba(188, 154, 68, 0.4);
+}
+.chair-img-bot{
+    box-shadow: 20px -20px 0px 6px rgba(188, 154, 68, 0.4);
+}
+
+.btn-explained{
+    border: 2px solid #BC9A44;
+    background: transparent;
+    padding: 1rem;
+    width: 204px;
+}

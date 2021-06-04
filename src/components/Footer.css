@@ -1,0 +1,19 @@
+/**** footer ***/
+
+.containerFooter{
+    display: flex;
+    background-color: black;
+    width: auto;
+    padding: 1.2rem;
+    height: 5rem;
+    justify-content: center;  
+    position :relative;
+}
+.bar-footer{
+    position: absolute;
+    width: 120px;
+    height: 5px;
+    left: 44%;
+    top: 50%;
+    background: #D3C08E;
+}

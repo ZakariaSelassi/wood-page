@@ -1,0 +1,79 @@
+header{
+    background-image: url('wood-right.png'),url('wood-left.png');
+    background-position: left top,top right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 50%,50%;
+    background-color: black;
+    max-height: 500px;
+    width: 100%;
+}
+.navbar{
+    position:relative;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0, 0, 0, 0.789); 
+    min-height: 500px;
+    width: 100%;
+}
+.container-nav{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.8rem;
+}
+.navlinks{
+    display : flex;
+    list-style: none;
+    justify-content: space-around;
+    width : 50%;
+
+}
+.navlinks li{
+    list-style-type:none;
+    
+}
+.navlinks a{
+    text-decoration: none;
+    color:white;
+}
+/*** logo's header ***/
+.items{
+    width: 25px;
+    height : 25px;
+}
+.logo-nav{
+    width: 103px;
+    height: 15px;
+}
+.logoMain{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.navbar-bar{
+    position:absolute;
+    top:44%;
+    left:47%;
+    transform: translate(-50%,-50%);
+    background:#BC9A44;
+    width:120px;
+    height:5px;
+    border-radius: 20px;
+}
+.bar{
+    position:absolute;
+    top:4%;
+    left:45.8%;
+    transform: translate(-50%,-50%);
+    background:#BC9A44;
+    width:43px;
+    height:3px;
+    border-radius: 20px;
+}
+/**** end logo's header */
+.left-nav{
+    display:flex;
+    justify-content: space-between;
+    width : 50%;
+    margin-right: 2rem;
+}
