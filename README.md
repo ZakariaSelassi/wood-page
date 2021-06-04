@@ -7,7 +7,7 @@ Mission :
 
 ![lightouse](Lightouse.PNG)
 
-![model](public/woodStock.png)
+![model](woodStock.png)
 
 
 [Page](https://zakariaselassi.github.io/wood-page/)
