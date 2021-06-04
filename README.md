@@ -5,9 +5,9 @@ Mission :
 - Create a page that looks like the prototype given
 - Respecting lightouse : 
 
-[lightouse](public/Lightouse.PNG)
+![lightouse][Lightouse.PNG]
 
-[model](public/woodStock.png)
+![model][public/woodStock.png]
 
 
 [Page](https://zakariaselassi.github.io/wood-page/)
