@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wood-page/static/css/main.3fed4881.chunk.css",
+    "main.js": "/wood-page/static/js/main.b5a587a1.chunk.js",
+    "main.js.map": "/wood-page/static/js/main.b5a587a1.chunk.js.map",
+    "runtime-main.js": "/wood-page/static/js/runtime-main.e500b186.js",
+    "runtime-main.js.map": "/wood-page/static/js/runtime-main.e500b186.js.map",
+    "static/js/2.c7bf8ad5.chunk.js": "/wood-page/static/js/2.c7bf8ad5.chunk.js",
+    "static/js/2.c7bf8ad5.chunk.js.map": "/wood-page/static/js/2.c7bf8ad5.chunk.js.map",
+    "index.html": "/wood-page/index.html",
+    "static/css/main.3fed4881.chunk.css.map": "/wood-page/static/css/main.3fed4881.chunk.css.map",
+    "static/js/2.c7bf8ad5.chunk.js.LICENSE.txt": "/wood-page/static/js/2.c7bf8ad5.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/wood-page/static/media/wood-right.8d2da34e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e500b186.js",
+    "static/js/2.c7bf8ad5.chunk.js",
+    "static/css/main.3fed4881.chunk.css",
+    "static/js/main.b5a587a1.chunk.js"
+  ]
+}
